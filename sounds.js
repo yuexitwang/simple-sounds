@@ -6,7 +6,7 @@ var sounds = {
     url : "sounds/smash.mp3",
   },
   "ping" : {
-    url : "sounds/ping.mp3"
+    url : "sounds/Fifth St.mp3"
   },
   "bump" : {
     url : "sounds/bump.mp3"
